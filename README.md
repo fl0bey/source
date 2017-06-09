@@ -1,2 +1,2 @@
-# source
-Odin.zone source code 
+# Odin.zone
+Source code 
